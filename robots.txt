@@ -1,0 +1,25 @@
+User-agent: EasouSpider
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: *
+Crawl-delay: 60
+Disallow: /img/
+Disallow: /css/
+Disallow: /js/
+Disallow: /img/icons
+Disallow: /img/portfolio
+Disallow: /_notes/
+Disallow: /fonts/
+Disallow: /less/
+Disallow: /scss/
+Sitemap: /sitemap.xml
+

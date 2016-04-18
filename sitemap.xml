@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://easyfoodmob.herokuapp.com/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://easyfoodmob.herokuapp.com/</loc>
+    <image:image>
+      <image:loc>https://easyfoodmob.herokuapp.com/img/portfolio/portfolio1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://easyfoodmob.herokuapp.com/img/portfolio/portfolio2.jpg</image:loc>
+    </image:image>
+        <image:image>
+      <image:loc>https://easyfoodmob.herokuapp.com/img/portfolio/portfolio3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://easyfoodmob.herokuapp.com/img/portfolio/portfolio4.jpg</image:loc>
+    </image:image>
+        <image:image>
+      <image:loc>https://easyfoodmob.herokuapp.com/img/portfolio/portfolio5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://easyfoodmob.herokuapp.com/img/portfolio/portfolio6.jpg</image:loc>
+    </image:image>
+  </url> 
+</urlset> 
+
+</urlset>

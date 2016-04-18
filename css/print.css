@@ -1,0 +1,39 @@
+@media print {
+    /* Todas las reglas Css */
+@page {
+    size:letter portrait;
+    margin:10%;
+}
+ 
+.headreport {
+    font-family:Verdana, Geneva, sans-serif;
+    size:12px;
+    background:#000;
+    font-weight:bold;
+    color:#fff;
+}
+h1 {
+    font-family:Verdana, Geneva, sans-serif;
+    size:24px;
+    font-weight:bold;
+    color:#ee3e15;  
+    text-align:center;
+}
+.repblue {
+    font-family:Verdana, Geneva, sans-serif;
+    size:12px;
+    background:#D2DEEF;
+}
+.repwh {
+    font-family:Verdana, Geneva, sans-serif;
+    size:12px;
+}
+.btnprnt {
+    display:none;
+}
+.tablac{
+    width:100%;
+}
+
+}
+
