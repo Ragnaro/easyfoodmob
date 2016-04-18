@@ -40,7 +40,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a id="msnerror" class="navbar-brand page-scroll" href="index.php">
+                <a id="msnerror" class="navbar-brand page-scroll" href="/">
                     <i id="msnerror" class="fa fa-play-circle"></i>  <span class="light"></span>Home
                 </a>
             </div>
@@ -75,7 +75,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <h1 id="msnerror" class="brand-heading">ERROR 404</h1>
-                        <p id="msnerror" class="intro-text">Disculpanos<br>ocurrio error<br>en explicacion te diremos que paso n_n</p>
+                        <p id="msnerror" class="intro-text">Disculpanos<br>ocurrio un error<br>en explicacion te diremos que paso n_n</p>
                         <a href="#about" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
@@ -93,7 +93,7 @@
                 <p id="msnerror">No se encuentra la página que ha solicitado.
                     <br>No existe o bien ha sido eliminada de nuestro servidor.
                     <br>Comprueba que has escrito correctamente la dirección.
-                    <br>O puedes tratar de encontrar la página que busca desde el menú de navegación de la parte superior, o en un buscador.</p>
+                    <br>O puedes tratar de encontrar la página que busca desde el menú de navegación de la parte superior, si quieres también intentarlo en un buscador.</p>
                 <a href="#" class="btn btn-circle page-scroll">
                     <i class="fa fa-angle-double-up animated"></i>
                 </a>
