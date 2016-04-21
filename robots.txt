@@ -22,4 +22,4 @@ Disallow: /fonts/
 Disallow: /less/
 Disallow: /scss/
 Sitemap: /sitemap.xml
-
+Sitemap: http://easyfoodmob.herokuapp.com/sitemap.xml
