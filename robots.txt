@@ -11,7 +11,6 @@ User-agent: Yandex
 Disallow: /
 
 User-agent: *
-Crawl-delay: 60
 Disallow: /img/
 Disallow: /css/
 Disallow: /js/
@@ -21,5 +20,4 @@ Disallow: /_notes/
 Disallow: /fonts/
 Disallow: /less/
 Disallow: /scss/
-Sitemap: /sitemap.xml
 Sitemap: http://easyfoodmob.herokuapp.com/sitemap.xml
