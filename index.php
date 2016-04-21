@@ -9,6 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="">
+    <meta name="google-site-verification" content="QQtnrYlVmyFOTE31RZs8CPMt3-lfej4FxyhridcgZVk" />
     <link rel="shortcut icon" href="favicon.ico">
     <!--Ios-->
     <link rel="apple-touch-icon" href="apple-touch-icon.png" />
