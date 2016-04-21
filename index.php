@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>EASYFOODAPP</title>
+    <title>EASYFOODMOB</title>
     <meta name="description" content="Quires mostrar tus menús Descubre una manera innovadora de presentar tus menús, permite a tus clientes lleguen más cerca de ti">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
