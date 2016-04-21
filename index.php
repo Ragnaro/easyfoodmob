@@ -20,7 +20,7 @@
     <meta name="msapplication-TileImage" content="tile.png" />
     <meta name="msapplication-TileColor" content="#fed5ad" />
     <!--Mac-->
-    <link rel="fluid-icon" href="fluidicon.png" title="Nombre de tu empresa o marca" />
+    <link rel="fluid-icon" href="fluidicon.png" title="EASYFOOD" />
 
     <!-- Print CSS -->
     <link rel="stylesheet" type="text/css" href="css/print.css" media="print" />
