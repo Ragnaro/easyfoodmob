@@ -254,6 +254,7 @@
                     <img src="http://contadores.gratisparaweb.com/imagen.php?contador=24&id2=566885"  class="img-responsive" alt="Contadores" title="visitas">
                 </a>
             </div>
+            <br><br>
             <!-- fin codigo www.gratisparaweb.com -->
             <div class="fb-like" data-href="https://www.facebook.com/Easyfood-1688031498114750/" data-width="100px" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
