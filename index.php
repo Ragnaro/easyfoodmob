@@ -255,7 +255,8 @@
                 </a>
             </div>
             <!-- fin codigo www.gratisparaweb.com -->
-
+            <div class="fb-like" data-href="https://www.facebook.com/Easyfood-1688031498114750/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+            
 
         </div>
     </section>
@@ -404,9 +405,6 @@
                         <ul class="list-inline">
                             <li>
                                 <a href="https://www.facebook.com/Easyfood-1688031498114750/" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                            </li>
-                            <li>
-                                <div class="fb-like" data-href="https://www.facebook.com/Easyfood-1688031498114750/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
                             </li>
                             <!--li>
                                 <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
