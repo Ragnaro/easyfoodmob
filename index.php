@@ -49,6 +49,14 @@
 
 <body id="page-top">
 <?php include_once("analyticstracking.php") ?>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
 
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
@@ -396,6 +404,9 @@
                         <ul class="list-inline">
                             <li>
                                 <a href="https://www.facebook.com/Easyfood-1688031498114750/" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                            </li>
+                            <li>
+                                <div class="fb-like" data-href="https://www.facebook.com/Easyfood-1688031498114750/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
                             </li>
                             <!--li>
                                 <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
