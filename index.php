@@ -238,6 +238,7 @@
                         <h4>Bienvenido al blog</h4>
                         <p class="text-justify">Este <strong>blog</strong> te dará consejos para hacer más eficiente Tu restaurante y poder llegar al corazón de Tus clientes, también te mostraremos como funciona nuestra aplicación y las ventajas de usarla con este fin, ya veras como es una de las mejores herramientas para lograr conquistar a Tus clientes.</p>
                     </div>
+                    <div class="fb-like" data-href="https://www.facebook.com/Easyfood-1688031498114750/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
                 </div>
 
@@ -256,7 +257,7 @@
             </div>
             <br><br>
             <!-- fin codigo www.gratisparaweb.com -->
-            <div class="fb-like" data-href="https://www.facebook.com/Easyfood-1688031498114750/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
 
 
         </div>
