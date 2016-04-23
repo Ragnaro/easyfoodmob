@@ -366,8 +366,8 @@
     <aside class="bg-dark">
         <div class="container text-center">
             <div class="call-to-action">
-                <h2>Dale un vistaso a nuestra empresa</h2>
-                <a href="#" class="btn btn-default btn-xl wow tada">vistanos</a>
+                <h2>Dale un vistazo a nuestra empresa</h2>
+                <a href="#" class="btn btn-default btn-xl wow tada">visitanos</a>
             </div>
         </div>
     </aside>
