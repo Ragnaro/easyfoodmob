@@ -406,7 +406,7 @@
                         <h3>Redes sociales</h3>
                         <ul class="list-inline">
                             <li>
-                                <a href="https://www.facebook.com/Easyfood-1688031498114750/" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                                <a href="https://www.facebook.com/easyfoodmob" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                             </li>
                             <!--li>
                                 <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
