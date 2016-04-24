@@ -77,7 +77,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a class="page-scroll" href="#about">Porque se creo</a>
+                        <a class="page-scroll" href="#about">¿Por qué se creó?</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#services">Blog</a>
