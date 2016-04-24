@@ -86,7 +86,7 @@
                         <a class="page-scroll" href="#portfolio">Interfaces</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contactanos</a>
+                        <a class="page-scroll" href="#contact">Contáctanos</a>
                     </li>
                 </ul>
             </div>
