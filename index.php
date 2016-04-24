@@ -101,7 +101,7 @@
                 <h1 id="firsttitle">easyfood</h1>
                 <hr>
                 <h3 id="wellcome"><strong>Bienvenido te presentamos a easyfood</strong></h3>
-                <a href="#about" class="btn btn-primary btn-xl page-scroll">Porque se crea</a>
+                <a href="#about" class="btn btn-primary btn-xl page-scroll">Por qué se creó</a>
             </div>
         </div>
     </header>
