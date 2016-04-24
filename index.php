@@ -101,7 +101,7 @@
                 <h1 id="firsttitle">easyfood</h1>
                 <hr>
                 <h3 id="wellcome"><strong>Bienvenido te presentamos a easyfood</strong></h3>
-                <a href="#about" class="btn btn-primary btn-xl page-scroll">Por qué se creó</a>
+                <a href="#about" class="btn btn-primary btn-xl page-scroll">¿Por qué se creó?</a>
             </div>
         </div>
     </header>
@@ -110,7 +110,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Porque se creo easyfood</h2>
+                    <h2 class="section-heading">¿Por qué se creó easyfood?</h2>
                     <hr class="light">
                     <p class="text-faded">Actualmente, podemos evidenciar cómo las redes sociales, variedad de canales de comunicación y tecnologías móviles tienen un gran impacto en la publicidad de diferentes empresas, logrando maximizar su número de clientes. Es por esto, que  <strong>easyfood</strong> nace como respuesta a los negocios de restaurantes.</p>
                     <a href="#" class="btn btn-default btn-xl">Inicio</a>
