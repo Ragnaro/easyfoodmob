@@ -112,7 +112,7 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Porque se creo easyfood</h2>
                     <hr class="light">
-                    <p class="text-faded">Actualmente, podemos evidenciar cómo las redes sociales, variedad de canales de comunicacion y tecnologias moviles tienen una gran impacto en la publicidad de diferentes empresas, logrando maximizar su número de clientes. Es por esto, que <strong>easyfood</strong> nace como respuesta a los negocios de restaurantes</p>
+                    <p class="text-faded">Actualmente, podemos evidenciar cómo las redes sociales, variedad de canales de comunicación y tecnologías móviles tienen un gran impacto en la publicidad de diferentes empresas, logrando maximizar su número de clientes. Es por esto, que  <strong>easyfood</strong> nace como respuesta a los negocios de restaurantes.</p>
                     <a href="#" class="btn btn-default btn-xl">Inicio</a>
                 </div>
             </div>
@@ -184,8 +184,8 @@
                             <img class="media-object" src="img/anonim.png" alt="profileanonim" title="profile Anonimo">
                         </a>
                         <div class="media-body">
-                            <h4 class="media-heading">Anonimo
-                                <small>15 de Abrirl, 2016 at 10:00 AM</small>
+                            <h4 class="media-heading">Anónimo 
+                                <small>15 de Abril, 2016 at 10:00 AM</small>
                             </h4>
                             Me parece muy interesante para mi negocio, quisiera saber más detalles.
 
@@ -238,7 +238,7 @@
                     <!-- Side Widget Well -->
                     <div class="well">
                         <h4>Bienvenido al blog</h4>
-                        <p class="text-justify">Este <strong>blog</strong> te dará consejos para hacer más eficiente Tu restaurante y poder llegar al corazón de Tus clientes, también te mostraremos como funciona nuestra aplicación y las ventajas de usarla con este fin, ya veras como es una de las mejores herramientas para lograr conquistar a Tus clientes.</p>
+                        <p class="text-justify">Este <strong>blog</strong> te dará consejos para hacer más eficiente Tu restaurante y poder llegar al corazón de Tus clientes, también te mostraremos como funciona nuestra aplicación y las ventajas de usarla con este fin, ya verás cómo poco a poco se convierte en una de las mejores herramientas para lograr conquistar a Tus clientes.</p>
                     </div>
                     <div class="fb-like" data-href="https://www.facebook.com/Easyfood-1688031498114750/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
@@ -267,7 +267,7 @@
 
     <section class="no-padding" id="portfolio">
         <div class="container-fluid">
-            <h3 id="interfas">Interfas</h3>
+            <h3 id="interfas">Interfaz</h3>
             <div class="row no-gutter">
                 <div class="col-lg-4 col-sm-6">
                     <a href="#" class="portfolio-box">
@@ -376,10 +376,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Contactanos para ayudarte </h2> <br> <p> n_n </p>
+                    <h2 class="section-heading">Contáctanos para ayudarte </h2> <br> <p> n_n </p>
                     <hr class="primary">
-                    <p>¿Listo para iniciar su próximo proyecto con nuestra aplicacion?
-                        <br>¡Eso es genial! <br>Danos una llamada o envianos un mensaje y nos pondremos en contacto con tigo tan pronto como sea posible!</p>
+                    <p>¿Listo para iniciar su próximo proyecto con nuestra aplicación?
+                        <br>¡Danos una llamada o envíanos un mensaje y nos pondremos en contacto contigo tan pronto como sea posible!</p>
                     <br><br>
                 </div>
                 <div class="col-lg-4 col-lg-offset-2 text-center">
@@ -402,7 +402,7 @@
                 <div class="row">
                     <div class="footer-col col-md-4" >
                         <h3>Localización</h3>
-                        <p>Tunja, Boyaca</p>
+                        <p>Tunja, Boyacá</p>
                     </div>
                     <div class="footer-col col-md-4" >
                         <h3>Redes sociales</h3>
