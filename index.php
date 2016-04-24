@@ -367,7 +367,7 @@
         <div class="container text-center">
             <div class="call-to-action">
                 <h2>Dale un vistazo a nuestra empresa</h2>
-                <a href="javascript:document.location.reload();" class="btn btn-default btn-xl wow tada">visitanos</a>
+                <a href="javascript:document.location.reload();" class="btn btn-default btn-xl wow tada">Visítanos</a>
             </div>
         </div>
     </aside>
