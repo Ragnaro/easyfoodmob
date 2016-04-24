@@ -388,7 +388,7 @@
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a href="https://www.facebook.com/Easyfood-1688031498114750/">Escribenos</a></p>
+                    <p><a href="https://www.facebook.com/Easyfood-1688031498114750/">Escríbenos</a></p>
                 </div>
             </div>
         </div>
